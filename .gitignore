@@ -1,16 +1,9 @@
-# 敏感凭证文件
 credentials.json
 token.json
 token_all.json
-
-# 本地下载的文件夹
 Drive_Downloads/
 My_Drive_Downloads/
-
-# Python 缓存
 __pycache__/
 *.pyc
-
-# 虚拟环境
 venv/
 .venv/
